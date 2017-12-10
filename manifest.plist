@@ -11,7 +11,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>http://47.89.248.118:168/hhnews.ipa</string>
+            <string>http://47.90.211.233/hhnews.ipa</string>
           </dict>
           <dict>
             <key>kind</key>
@@ -19,7 +19,7 @@
             <key>needs-shine</key>
             <false/>
             <key>url</key>
-            <string>http://47.89.248.118:168/ico.png</string>
+            <string>http://47.90.211.233/ico.png</string>
           </dict>
           <dict>
             <key>kind</key>
@@ -27,7 +27,7 @@
             <key>needs-shine</key>
             <false/>
             <key>url</key>
-            <string>http://47.89.248.118:168/ico.png</string>
+            <string>http://47.90.211.233/ico.png</string>
           </dict>
         </array>
         <key>metadata</key>
